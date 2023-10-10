@@ -66,7 +66,7 @@ if($user){
     <?php
 if($success){
     echo '<div class="alert alert-sucess alert-dismissible fade show" role="alert">
-  <strong>Sucess </strong> You have successfully Sign Up.
+  <strong>Success </strong> You have successfully Sign Up.
   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
 </div>';
 }
